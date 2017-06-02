@@ -4,7 +4,8 @@ Página web dedicada a artículos feministas con HTML, CSS , Jquery, Json, RSS, 
 
 v1.- Diseño y esbozos de plantillas para web.
 
-
+BOCETOS A MANO:
+PDF dentro de la carpeta ImagenesReadme
 
 
 
