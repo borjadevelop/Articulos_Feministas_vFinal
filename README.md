@@ -10,8 +10,14 @@ v1.- Diseño y esbozos de plantillas para web.
 
 
 
-
+BOCETOS A ORDENADOR:
+BOCETO 1
 ![](https://rawgit.com/borjadevelop/Articulos_Feministas_vFinal/master/imagenesreadme/Pag1.jpg)
+
+
+
+
+BOCETO 2
 ![](https://rawgit.com/borjadevelop/Articulos_Feministas_vFinal/master/imagenesreadme/PagMOVIL.jpg)
 v2.- Creación de plantillas en HTML.
 
