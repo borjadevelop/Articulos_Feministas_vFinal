@@ -6,7 +6,6 @@ v1.- Diseño y esbozos de plantillas para web.
 
 
 
-![](https://rawgit.com/borjadevelop/Articulos_Feministas_vFinal/master/imagenesreadme/170602160715_0001.pdf)
 
 
 
@@ -37,5 +36,5 @@ v9.- Implementación de JS para hacer Scroll Down y cargar las noticias cuando e
 
 v10.- Compresión de fotos con PNG gauntlet.
 
-v11.- Indent y minify.
+v11.- Indent.
 
