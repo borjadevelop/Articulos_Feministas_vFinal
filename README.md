@@ -4,6 +4,15 @@ Página web dedicada a artículos feministas con HTML, CSS , Jquery, Json, RSS, 
 
 v1.- Diseño y esbozos de plantillas para web.
 
+
+
+
+
+
+
+
+![](https://rawgit.com/borjadevelop/Articulos_Feministas_vFinal/master/imagenesreadme/Pag1.jpg)
+![](https://rawgit.com/borjadevelop/Articulos_Feministas_vFinal/master/imagenesreadme/PagMOVIL.jpg)
 v2.- Creación de plantillas en HTML.
 
 v3.- Elección de plantilla y implementación de CSS.
