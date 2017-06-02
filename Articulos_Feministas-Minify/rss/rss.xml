@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+ <title>Página Feministas</title>
+ <link>https://github.com/borjadevelop/Articulos_Feministas/blob/Pruebas_Buenas/index.html</link>
+ <description>Página de artículos sobre mujeres importantes del mundo.</description>
+  <item>
+  <title>Orígenes del Feminismo </title>
+  <link>https://rawgit.com/borjadevelop/Articulos_Feministas/Pruebas_Buenas/noticia1.html</link>
+  <description>en Europa Occidental y Norteamérica se inició un movimiento, el feminismo, que luchó por la igualdad de la mujer y su liberación.</description>
+
+
+ </item>
+
+ <item>
+  <title>Hedy Lamarr</title>
+  <link>https://rawgit.com/borjadevelop/Articulos_Feministas/Pruebas_Buenas/noticia2.html</link>
+  <description>Hedwig Eva Maria Kiesler, conocida como Hedy Lamarr, fue una actriz de cine e inventora austriaca naturalizada estadounidense.</description>
+
+
+ </item>
+ <item>
+  <title>Ada Lovelace</title>
+  <link>https://rawgit.com/borjadevelop/Articulos_Feministas/Pruebas_Buenas/noticia2.html</link>
+  <description>Augusta Ada King, Condesa de Lovelace , (nacida Augusta Ada Byron en Londres, 10 de diciembre de 1815 - Londres, 27 de noviembre de 1852), conocida habitualmente como Ada Lovelace, fue una matemática y escritora británica cuya fama le viene principalmente por su trabajo sobre la máquina calculadora mecánica de uso general de Charles Babbage, la denominada máquina analítica.</description>
+
+
+ </item>
+</channel>
+
+</rss>
+
+
+
+
+
